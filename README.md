@@ -1,5 +1,7 @@
 **Project setup QLS**
 
+This project uses laravel with a docker setup using Sail. 
+I've created a makefile for an easy setup you can run the following commands to run the project:
 
 1. go to root and run npm install
 2. install all composer dependencies
