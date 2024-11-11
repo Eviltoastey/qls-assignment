@@ -35,3 +35,5 @@ find / -name policy.xml 2>/dev/null
 When this return the policy path copy it and run:
 
 nano YOURPATHHERE
+
+Set all permissions on read|write
